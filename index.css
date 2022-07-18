@@ -26,3 +26,7 @@ body {
   height: 1px;
   overflow: hidden;
 }
+
+#email {
+  display: none;
+}
